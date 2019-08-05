@@ -1,0 +1,7 @@
+Exclude scripts from Autoptimize
+---------------------------------------
+wp-includes/js/dist/, wp-includes/js/tinymce/, js/jquery/jquery.js
+
+Exclude CSS from Autoptimize
+--------------------------------------
+wp-content/cache/, wp-content/uploads/, admin-bar.min.css, dashicons.min.css
